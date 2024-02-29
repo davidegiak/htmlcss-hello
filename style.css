@@ -1,0 +1,7 @@
+div {
+    background-color: red;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 50%;
+}
